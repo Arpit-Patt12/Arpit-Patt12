@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development(FS)
 Completed internship in AIML
 - 💞️ I’m looking to collaborate on internships on AI background
-- 📫 How to reach me arpitpattanaik7@gmail.com
+- 📫 How to reach me arpitpatt77@gmail.com
 - ⚡ Fun fact: Your brain is constantly eating itself.
 
 <!---
